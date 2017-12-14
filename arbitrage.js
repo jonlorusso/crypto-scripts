@@ -5,7 +5,6 @@
 const ccxt = require('ccxt');
 const log = require ('ololog').configure ({ locate: false })
 
-//var Promise = require("bluebird");
 let sleep = (ms) => new Promise (resolve => setTimeout (resolve, ms));
 
 process.on('unhandledRejection', error => {
