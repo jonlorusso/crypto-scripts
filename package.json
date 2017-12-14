@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ansicolor": "^1.1.71",
     "bluebird": "^3.5.1",
     "ccxt": "^1.10.376",
+    "minimist": "^1.2.0",
     "ololog": "^1.1.78"
   }
 }
