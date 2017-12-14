@@ -3,7 +3,6 @@
 'use strict';
 
 const ccxt = require('ccxt');
-const util = require('util');
 const log = require ('ololog').configure ({ locate: false })
 
 //var Promise = require("bluebird");
