@@ -2,6 +2,8 @@
 
 Scripts for doing crypto things.
 
+note: both of these scripts are based heavily on scripts found in the examples
+section of the [ccxt](https://github.com/ccxt/ccxt) project.
 
 ### arbitrage.js
 
